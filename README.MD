@@ -3,12 +3,12 @@
 
 ##Steps of Redux part
 
-- **1. actions**
+- **actions**
 
-- **2. reducer**
+- **reducer**
 
-- **3. store -> Globalized State [use to combine all reducers files]**
+- **store -> Globalized State [use to combine all reducers files]**
 
-- **4. display**
+- **display**
 
-- **5. dispatch**
+- **dispatch**
